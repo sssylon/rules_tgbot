@@ -1,0 +1,7 @@
+[tool.poetry]
+name = "rules_tgbot"
+version = "0.1.0"
+description = "Telegram voting rules bot"
+
+[tool.poetry.dependencies]
+python = "^3.10"
